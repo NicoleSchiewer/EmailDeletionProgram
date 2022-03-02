@@ -8,4 +8,4 @@ This program works by using IMAP and Python to connect to the IMAP server for Gm
 
 To run the program, simply enter your Gmail username and password into the corresponding locations within the program. Then, specify the mailbox to be searched (default is the "All Mail" mailbox), and enter in search criteria for specific messages. Once completed, run the program.
 
-NOTE*: If an error is returned after inputting password into program, this could be due to 2-factor verification being enabled. An auth credential may have to be created in Gmail to bypass this. Please ask if you have questions, and I can explain the process fu
+NOTE*: If an error is returned after inputting password into program, this could be due to 2-factor verification being enabled. An auth credential may have to be created in Gmail to bypass this. Please ask if you have questions, and I can explain the process further.
